@@ -46,7 +46,7 @@
   <ItemGroup>
     <Reference Include="Microsoft.AspNet.Http, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\glimpse\Glimpse\packages\Microsoft.AspNet.Http.1.0.0-alpha3-10100\lib\net45\Microsoft.AspNet.Http.dll</HintPath>
+      <HintPath>..\..\packages\Microsoft.AspNet.Http.1.0.0-alpha3-10100\lib\net45\Microsoft.AspNet.Http.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
